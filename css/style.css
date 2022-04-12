@@ -1,0 +1,33 @@
+.admin-form{
+    width: 600px;
+    background-color: tomato;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.admin-form h1{
+    font-size: 50px;
+}
+.admin-form a{
+text-decoration: none;
+color: white;
+font-size: 20px;
+}
+#login-form{
+    
+}
+#login-form input{
+width: 90%;
+margin: 10px;
+padding: 10px;
+}
+#login-form #btn{
+    width: 30%;
+    background-color: wheat;
+}
+#login-form #btn:hover{
+    background: rgb(163, 234, 234);
+}
+#login-form input:focus{
+    background-color: rgb(147, 233, 233);
+}
